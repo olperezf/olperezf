@@ -8,6 +8,12 @@ My name is Omer Pérez, i'm from venezuela, and i'm a Systems Engineer.
 
 Skills
 --
+
+<kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/ruby_pin.jpg" height="90" width="90" style="border-radius:50%;"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd> <img src="https://github.com/olperezf/olperezf/blob/master/images/rails_pin.jpg" height="90" width="90" ></kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd> <img src="https://github.com/olperezf/olperezf/blob/master/images/python_pin.jpg" height="90" width="90" ></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/django_pin.jpeg" height="90" width="90" ></kbd>
+<br><br>
+<kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/javascript_pin.jpeg" height="90" width="90" ></kbd>&nbsp;&nbsp;&nbsp;&nbsp; <kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/react_pin.jpeg" height="90" width="90" ></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/css_pin.jpg" height="90" width="90" ></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/html_pin.jpeg" height="90" width="90" ></kbd>
+
+
 - Using Ruby on Rails (Frontend-Backend) since 2016
 - Test-Driven Development (TDD) using Rspec
 - Building applications with Django-Python (Frontend-Backend)
