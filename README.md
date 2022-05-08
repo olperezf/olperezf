@@ -1,4 +1,4 @@
-<kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/gear_pin.jpeg" height="90" width="90" style="border-radius:50%;"></kbd>
+<kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/gear_pin.jpeg" height="50" width="50" style="border-radius:50%;"></kbd>
 </> Hello!!!
 --
 My name is Omer Pérez, i'm from venezuela, and i'm a Systems Engineer.
