@@ -28,6 +28,10 @@ Skills
 - Project management tool Redmine
 - Vim Text Editor
 
+<kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/git_pin.jpeg" height="90" width="90" style="border-radius:50%;"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd> <img src="https://github.com/olperezf/olperezf/blob/master/images/github_pin.jpeg" height="90" width="90" ></kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd> <img src="https://github.com/olperezf/olperezf/blob/master/images/postgres_pin.jpeg" height="90" width="90" ></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/ubuntu_pin.jpeg" height="90" width="90" ></kbd>
+<br><br>
+<kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/debian_pin.jpeg" height="90" width="90" ></kbd>&nbsp;&nbsp;&nbsp;&nbsp; <kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/scrum_pin.jpeg" height="90" width="90" ></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/vim_pin.jpeg" height="90" width="90" ></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd><img src="https://github.com/olperezf/olperezf/blob/master/images/redmine_pin.png" height="90" width="90" ></kbd>
+
 Courses
 --
 
