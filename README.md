@@ -5,6 +5,7 @@ My name is Omer Pérez, i'm from venezuela, and i'm a Systems Engineer.
 - Currently working in https://www.linkedin.com/company/zurfers/about/ as Senior Software Developer - Ruby On Rails. 
 - Enter here to view zurfers website: https://www.zurfers.com/
 - Here is my profile on linkedin: https://www.linkedin.com/in/omer-perez-0939b8103/
+- My activities at Zurfers and more: https://gist.github.com/olperezf/751972dabf3ffccc5ade20244933a6f3
 - Thanks...
 
 {:} Skills
