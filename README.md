@@ -18,8 +18,6 @@ My name is Omer Pérez, i'm from venezuela, and i'm a Systems Engineer.
 
 - Using Ruby on Rails (Frontend-Backend) since 2016
 - Test-Driven Development (TDD) using Rspec
-- Building applications with Django-Python (Frontend-Backend)
-- React.js
 - Knowledge of Html, css, javascript, jquery, bootstrap and responsive
 - Database in Postgres, Mysql, Sqlite ...
 - Git
